@@ -1,0 +1,6 @@
+{
+    "name": "my-first-libray",
+    "version": "0.0.1",
+    "description": "This is my first library with Typescript",
+    "main": "dist/index.ts"
+}
